@@ -15,3 +15,8 @@ Rocket Boost is a platform game that made in Unity Engine. It is designed for mo
   <img src="https://user-images.githubusercontent.com/45393463/197623280-ec705377-f7f6-4a37-931a-219814320c3c.png" />
 </p> <br/>
 
+## Gameplay
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/45393463/197623524-15b8424f-5f7f-4980-8d63-8a91678ea5a9.gif" />
+</p> <br/>
+
