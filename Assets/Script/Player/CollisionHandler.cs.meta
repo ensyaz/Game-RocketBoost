@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa205fdb7741fb24c8d41e9f52f4236f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crash: {fileID: 8300000, guid: 5bb4ab001cff46441a647f2103a4dfe7, type: 3}
+  - finish: {fileID: 8300000, guid: b669bc6d39fb9b143a6dbdd530798099, type: 3}
+  - crashParticle: {instanceID: 0}
+  - finishParticle: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
