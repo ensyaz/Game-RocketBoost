@@ -1,1 +1,2 @@
-# Game-RocketBoost
+# Rocket Boost
+Rocket Boost is a platform game that made in Unity Engine. Core mechanic of the game is to reach the rocket from launching point to landing point without collide to obstacles.
